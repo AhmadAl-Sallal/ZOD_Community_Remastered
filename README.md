@@ -1,3 +1,6 @@
+<img width="1280" height="720" alt="Zod_Splash" src="https://github.com/user-attachments/assets/62f1794a-149b-41ed-821e-0f5c364c12a0" />
+
+
 # ZOD Community Remastered 2026
 
 A modernized community edition of ZOD Engine, based on the classic real-time strategy game Z (1996) by The Bitmap Brothers.
