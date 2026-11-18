@@ -1,46 +1,76 @@
-ZOD COMMUNITY REMASTERED - LICENSE SCOPE AND DISTRIBUTION NOTES
+ZOD COMMUNITY REMASTERED
+LICENSE SCOPE AND DISTRIBUTION NOTES
 
-ENGINE CODE
-The Zod Engine project identifies its source code as licensed under the
-GNU General Public License, version 3 (GPLv3). The unmodified full text
-of GPLv3 appears in LICENSE.txt.
+ENGINE SOURCE CODE
 
-Original engine: https://zod.sourceforge.net/
-GNU GPLv3: https://www.gnu.org/licenses/gpl-3.0.html
+ZOD Community Remastered is based on Zod Engine, originally developed by Nighsoft.
 
-This notice does not assert copyright ownership in the original engine.
-Modifications and contributions remain subject to the applicable license
-and third-party rights. The GPL-covered corresponding source and build
-information must be made available when distributing covered binaries,
-in accordance with GPLv3 requirements. Review the source-release method
-before publishing a binary package.
+The original Zod Engine source code is licensed under the GNU General Public License, version 3 (GPLv3).
 
-IMPORTANT: NON-CODE MATERIALS
-GPLv3 coverage of the engine source must NOT be taken as evidence that
-all sprites, maps, music, sound effects, character art, logos, original Z
-content, or trademarks may be freely redistributed. These rights must
-be established separately. The original 1996 game Z is associated with
-The Bitmap Brothers; this community edition claims no affiliation or
-endorsement.
+The complete GPLv3 license text is available in License.txt.
+
+Original engine:
+https://zod.sourceforge.net/
+
+GNU GPLv3:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+This project does not claim ownership of the original Zod Engine.
+
+Modifications to GPL-covered source code remain subject to the applicable GPLv3 requirements.
+
+ZOD Community Remastered v1.0.0 provides a separate source code archive alongside the playable Windows release.
+
+Distributors must ensure that the corresponding source code and required build information are available in accordance with GPLv3.
+
+
+ORIGINAL GAME AND THIRD-PARTY ASSETS
+
+ZOD Community Remastered is an independent community project inspired by the original 1996 game Z by The Bitmap Brothers.
+
+The project is not affiliated with or endorsed by the original game's creators or current rights holders.
+
+The GPLv3 license covering the engine source code does not automatically grant redistribution rights for original game graphics, sprites, maps, music, sound effects, logos, characters, or trademarks.
+
+Rights to third-party materials must be established separately.
+
+Redistribution of such materials remains subject to the permissions and licenses of their respective rights holders.
+
 
 FONTS
-Font licenses are in LICENSES/: Arimo-OFL.txt, Goldman-OFL.txt,
-and Oxanium-OFL.txt (SIL Open Font License 1.1 with respective
-copyright notices). Arimo's license header follows current upstream
-at the time of preparation; confirm that it matches the actual Arimo
-file bundled in the final game build.
+
+The project uses the following open-source fonts:
+
+- Arimo
+- Goldman
+- Oxanium
+
+These fonts are distributed under the SIL Open Font License 1.1.
+
+The corresponding font license notices are provided in the LICENSES directory.
+
+Arimo replaces the Arial font used in earlier versions of the project.
+
+The applicable font licenses and copyright notices must be preserved when redistributing the fonts.
+
 
 THIRD-PARTY LIBRARIES
-The relevant licenses/notices for SDL, other libraries and redistributed
-DLL components must be audited and included separately. These files DO
-NOT constitute a completed review of all third-party components.
 
-RELEASE CHECKS STILL REQUIRED
-- Confirm redistribution rights for all non-code assets, particularly
-  original game graphics, music, sounds, and maps.
-- Confirm all external library notices and license conditions.
-- Confirm the final release does not accidentally include a proprietary
-  Arial font file inherited from older game assets.
-- Confirm accurate GPL-covered Corresponding Source distribution.
+ZOD Community Remastered uses third-party software libraries, including SDL components.
 
-This file is explanatory and is not itself a new software license.
+Each redistributed library remains subject to its applicable license and copyright notices.
+
+The presence of GPLv3 source code does not replace the need to comply with separate third-party library licenses.
+
+
+REDISTRIBUTION AND LICENSING
+
+The engine source code is covered by GPLv3.
+
+Other project components may be subject to different licenses and rights.
+
+Anyone modifying or redistributing this project must comply with the applicable licenses and permissions for the materials they distribute.
+
+In particular, redistribution permissions for original game assets and licensing requirements for bundled third-party libraries must be verified independently.
+
+This document explains the licensing scope of ZOD Community Remastered. It is not itself a new software license.
