@@ -4,8 +4,6 @@
 
 ![ZOD Community Remastered](splash.png)
 
-# ZOD Community Remastered 2026
-
 A modernized community edition of ZOD Engine, based on the classic real-time strategy game Z (1996) by The Bitmap Brothers.
 
 This project preserves the original gameplay while introducing improvements to graphics, AI, pathfinding, combat, controls, multiplayer, and overall stability.
