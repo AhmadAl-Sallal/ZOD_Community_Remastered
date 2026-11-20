@@ -1,4 +1,3 @@
-<img width="1280" height="720" alt="Zod_Splash" src="https://github.com/user-attachments/assets/62f1794a-149b-41ed-821e-0f5c364c12a0" />
 
 # ZOD Community Remastered 2026
 
