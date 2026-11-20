@@ -9,7 +9,7 @@ This project preserves the original gameplay while introducing improvements to g
 
 ## 🎮 Download
 
-[Download ZOD Community Remastered v1.0.0](https://github.com/AhmadAl-Sallal/ZOD_Community_Remastered/releases/tag/v1.0.0)
+[Download ZOD Community Remastered v1.0.1](https://github.com/AhmadAl-Sallal/ZOD_Community_Remastered/releases/tag/v1.0.1)
 
 Download "ZOD_Community_Remastered.zip", extract the archive, and launch the game on Windows.
 
